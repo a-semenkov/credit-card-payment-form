@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'CreditCard';
+  src: url('../assets/fonts/CREDC.woff') format('woff'),
+    url('../assets/fonts/CREDC.ttf') format('ttf');
+}
